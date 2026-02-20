@@ -66,6 +66,11 @@ npm run dev
 
 *(Screenshots coming soon)*
 
+## 🚀 Live Application
+
+- 🎬 Frontend (Vercel): https://movie-booking-system-git-main-dulmi-sawindis-projects-561d5346.vercel.app
+- ⚙️ Backend API (Render): https://movie-booking-system-dv54.onrender.com
+
 ## 📄 License
 
 This project is licensed under the MIT License.
