@@ -68,7 +68,7 @@ npm run dev
 
 ## 🚀 Live Application
 
-- 🎬 Frontend (Vercel): https://movie-booking-system-git-main-dulmi-sawindis-projects-561d5346.vercel.app
+- 🎬 Frontend (Vercel): https://movie-booking-system-drab.vercel.app
 - ⚙️ Backend API (Render): https://movie-booking-system-dv54.onrender.com
 
 ## 📄 License
