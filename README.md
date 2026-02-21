@@ -62,9 +62,32 @@ npm run dev
 npm run dev
 ```
 
-## 🎥 Preview
+## 📸 Screenshots
 
-*(Screenshots coming soon)*
+### 🏠 Homepage
+<p align="center">
+  <img src="screenshots/homepage.png" width="900"/>
+</p>
+
+### 🎬 Movies Page
+<p align="center">
+  <img src="screenshots/movies.png" width="900"/>
+</p>
+
+### 🎥 Movie Details Page
+<p align="center">
+  <img src="screenshots/moviecard.png" width="900"/>
+</p>
+
+### 💺 Seat Selection
+<p align="center">
+  <img src="screenshots/seats.png" width="900"/>
+</p>
+
+### 📜 My Bookings
+<p align="center">
+  <img src="screenshots/bookings.png" width="900"/>
+</p>
 
 ## 🚀 Live Application
 
